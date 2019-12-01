@@ -1,0 +1,10 @@
+{
+    "name": "PonyHero",
+    "version": "1.0.0",
+    "description": "Making sure you never forget our pony boiii",
+    "main": "bot.js",
+    "author": "PonyBoi",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
