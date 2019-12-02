@@ -4,6 +4,9 @@
     "description": "Making sure you never forget our pony boiii",
     "main": "bot.js",
     "author": "PonyBoi",
+    "scripts": {
+	"build": "node bot.js"
+	},
     "dependencies": {
         "discord.js": "^11.5.1"
     }
